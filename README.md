@@ -7,11 +7,6 @@ I enjoy studying application architectures and discovering new ways to optimize 
 I am currently learning algorithms and solving problems on LeetCode — here is my profile:
 https://leetcode.com/u/t1_sho0/
 
-I have one fully functioning website that you can check out here:
-https://t1sho0.pythonanywhere.com/
-
-It was my first project, written in Python.
-
 I also have another, larger microservices-based project written in Go (Golang). Unfortunately, it is still in development, but you can check out the code and share your advice or suggestions. I am developing it on GitLab:
 https://gitlab.com/t1sho0/Go_Web_Project
 
