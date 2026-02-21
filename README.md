@@ -15,7 +15,7 @@ Here are my current technical skills:
   - Go (Golang)
   - Gin
   - GORM
-  - PostgreSQL
+  - PostgreSQL, SQL
   - Docker, Docker Compose
   - GitLab CI/CD
   - Linux
