@@ -21,6 +21,7 @@ Here are my current technical skills:
   - Linux
   - Bash (Shell)
   - Python
+  - FastAPI
   - Aiogram
   - Django
   - Postman
